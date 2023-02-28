@@ -1,0 +1,6 @@
+[submodule "gt-sat-api"]
+	path = gt-sat-api
+	url = https://gitlab.com/wohoo_tech/l10n-gt/gt-sat-api.git
+[submodule "l10n-gt-edi"]
+	path = l10n-gt-edi
+	url = https://gitlab.com/wohoo_tech/l10n-gt/l10n-gt-edi.git
